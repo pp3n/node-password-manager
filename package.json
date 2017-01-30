@@ -1,0 +1,22 @@
+{
+  "name": "password-manager",
+  "version": "1.0.0",
+  "description": "Password manager to store passwords locally",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pp3n/node-password-manager.git"
+  },
+  "keywords": [
+    "pwd"
+  ],
+  "author": "pp3n",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pp3n/node-password-manager/issues"
+  },
+  "homepage": "https://github.com/pp3n/node-password-manager#readme"
+}
